@@ -3,7 +3,7 @@
 <p>Meu nome é Thássia Lacerda, sou formada em Logista e estou em transição de carreira.</p>
 <p>Fiz o bootcamp da Recode Pro, onde iniciei meus conhecimentos com programação no curso de Desenvolvedor Full Stack com a carga horária de 540 horas.<p>
 
-<p>Habilidades em aprendizado: 
+<p><b>Habilidades em aprendizado:</> 
 
 <div>
 <a href="https://github.com/thassialacerda">
@@ -13,6 +13,13 @@
 <img height="80cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="80cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
 <img height="80cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+<img height="80cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-original.svg" />
+<img height="80cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="80cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+          
+ <p><b>Minhas redes sociais:</> 
+     
+          
           
           
           
