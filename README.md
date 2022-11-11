@@ -1,6 +1,6 @@
-## Olá, seja bem vindo ao meu perfil do GitHub.
+## Oiiie , seja bem vindo ao meu perfil do GitHub.
 
-<p>Meu nome é Thássia Lacerda, sou formada em Logista e estou em transição de carreira.</p>
+<h5>Meu nome é Thássia Lacerda, sou formada em Logística e estou em transição de carreira.</h5>
 <p>Fiz o bootcamp da Recode Pro, onde iniciei meus conhecimentos com programação no curso de Desenvolvedor Full Stack com a carga horária de 540 horas.<p>
 
 <p><b>Habilidades em aprendizado:</> 
