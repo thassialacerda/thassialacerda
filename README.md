@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá, seja bem vindo ao meu perfil do GitHub.
 
-<!--
-**thassialacerda/thassialacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Meu nome é Thássia Lacerda, sou formada em Logista e estou em transição de carreira.</p>
+<p>Fiz o bootcamp da Recode Pro, onde iniciei meus conhecimentos com programação no curso de Desenvolvedor Full Stack com a carga horária de 540 horas.<p>
 
-Here are some ideas to get you started:
+<p>Habilidades em aprendizado: Java Script, HTML, CSS.  C#, Java .</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/thassialacerda">
+<img heigth="20cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  
+</div>
+          
