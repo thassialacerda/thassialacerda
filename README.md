@@ -24,11 +24,9 @@
 <a href="https://github.com/thassialacerda"</a>
 <img href=www.linkedin.com/in/thássia-lacerda" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
 <img href=www.instagram.com/thassialacerda/" src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
-<img href=www.linkedin.com/in/thássia-lacerda" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
-<img href=www.linkedin.com/in/thássia-lacerda" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
+<img href=https://twitter.com/thassialacerda" src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white/>
 </div>
                                                            
-<div>
           
 <div>
 <a href="https://github.com/thassialacerda"</a>
