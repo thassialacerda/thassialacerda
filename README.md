@@ -1,4 +1,4 @@
-## Oiiie , seja bem vindo ao meu perfil do GitHub.
+## Olá, Seja bem vindo ao meu perfil do GitHub.
 
 <h5>Meu nome é Thássia Lacerda, sou formada em Logística e estou em transição de carreira.</h5>
 <p>Fiz o bootcamp da Recode Pro, onde iniciei meus conhecimentos com programação no curso de Desenvolvedor Full Stack com a carga horária de 540 horas.<p>
@@ -39,8 +39,9 @@
 <img src =https://github-readme-stats.vercel.app/api/top-langs/?username=thassialacerda&layout=compact)](https://github.com/thassialacerda/github-readme-stats) </img>
 </div>
          
-<p> Me considero uma pessoa determinada, focada e estou sempre pronta para novos desafios ;)</p>
-                                           
+<p> Me considero uma pessoa determinada, focada e estou pronta para novos desafios ;)</p>
+
+![Snake animation](https://github.com/thassialacerda/thassialacerda/blob/output/github-contribution-grid-snake.svg)                                         
                                            
           
           
