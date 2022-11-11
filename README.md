@@ -41,8 +41,7 @@
          
 <p> Me considero uma pessoa determinada, focada e estou pronta para novos desafios ;)</p>
 
-![Snake animation](https://github.com/thassialacerda/thassialacerda/blob/output/github-contribution-grid-snake.svg)                                         
-                                           
+
           
           
 
