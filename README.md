@@ -1,7 +1,7 @@
 ## Olá, Seja bem vindo ao meu perfil do GitHub.
 
 <h5>Meu nome é Thássia Lacerda, sou formada em Logística e estou em transição de carreira.</h5>
-> <p>Fiz o bootcamp da <b>Recode Pro</>, onde iniciei meus conhecimentos com programação no curso de <b>Desenvolvedor Full Stack Junior</b>com a carga horária de 540 horas.<p>
+<p>Fiz o bootcamp da <b>Recode Pro<b/>, onde iniciei meus conhecimentos com programação no curso de <b>Desenvolvedor Full Stack Junior</b>com a carga horária de 540 horas.<p>
 
 <p><b>Habilidades em aprendizado:</> 
 
